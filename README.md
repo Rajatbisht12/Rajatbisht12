@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajatbisht12&show_icons=true&locale=en" alt="Rajatbisht12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatbisht12&" alt="Rajatbisht12" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rajatbisht12&theme=dark)](https://git.io/streak-stats)
