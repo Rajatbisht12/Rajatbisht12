@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Rajat Bisht</h1>
+<h3 align="center">A passionate Fullstack developer and Devops student from India</h3>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rajatbisht12&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 🔭 I’m currently working on Mentor-Matrix<br>👯 I’m looking to collaborate on Rental-application<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning php<br>
 
@@ -12,8 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajatbisht12&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatbisht12&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajatbisht12&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
