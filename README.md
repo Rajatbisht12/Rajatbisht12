@@ -18,6 +18,21 @@
 <h3 align="left"> My GitHub History 📈</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatbisht12&theme=tokyonight" alt="Rajatbisht12" /></p>
 <hr>
+<p align="center">
+  <a href="https://github.com/Rajatbisht12">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajatbisht12&theme=tokyonight" alt="Vansh chauhan GitHub Contribution"/>
+  </a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajatbisht12&show_icons=true&locale=en&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="89.5%" /></p>
+
+
+
+<p align="center">
+  <a href="https://github.com/Rajatbisht12"><img alt="vansh chauhan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rajatbisht12&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" margin-top="-50px"/></a>
+  <br/>
+</a>
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/Rajatbisht12/Rajatbisht12/output/github-contribution-grid-snake-dark.svg)
 
