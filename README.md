@@ -25,7 +25,7 @@
   </a> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatbisht12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatbisht12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=html)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Rajatbisht12&show_icons=true&locale=en&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="89.5%" /></p>
 
