@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rajatbisht12&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on Mentor-Matrix<br>👯 I’m looking to collaborate on Rental-application<br>🤝 I’m looking for help with DSA && SQL<br>🌱 I’m currently learning PHP<br>
+🔭 I’m currently working on Mentor-Matrix<br>👯 I’m looking to collaborate on Rental-application<br>🤝 I’m looking for help with DSA && SQL<br>🌱 I’m currently learning GO<br>
 
 
 ## 🌐 Socials:
